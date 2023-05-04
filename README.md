@@ -15,13 +15,13 @@
 - ❓Estou sempre disponível para ajudar em tecnologias que eu conheço.  
   
 
-- ⚡ Curiosidade: eu tenho um android compilado para meu celular  
+- ⚡ Curiosidade: eu tenho um android compilado para meu celular (por mim).
   
 
 <br/>  
 
 
-## My Skill Set  
+## Minhas Skill 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -41,21 +41,12 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
 
 
-## Connect with me  
+## Meios de contato.
 <div align="center">
 <a href="https://linkedin.com/in/kauê-fernandes-de-souza-691961224" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
