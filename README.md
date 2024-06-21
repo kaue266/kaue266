@@ -15,7 +15,6 @@
 - ❓Estou sempre disponível para ajudar em tecnologias que eu conheço.  
   
 
-- ⚡ Curiosidade: eu tenho um android compilado para meu celular (por mim).
   
 
 <br/>  
@@ -71,12 +70,7 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/kaueqds11V" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
+
             </a></div>
 <br />
 
