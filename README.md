@@ -4,10 +4,8 @@
 
 ### <div align="center">Eu sou Kauê Fernandes, um desenvolvedor 👨 
  💻 front-end  e faço trabalhos freelancer e participo de projetos feito por mim ou por grupo de pessoas 🚀</div>  
-  
 
-- 🔭 Atualmente estou trabalhando no desenvolvimento do Site  "Jornal Estudantil Tiradentes" a fim de apresentar o jornal dos alunos   
-  
+
 
 - 👾🎮 Gosto de jogos Online ou offline   
   
