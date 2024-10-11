@@ -3,7 +3,7 @@
   
 
 ### <div align="center">Eu sou Kauê Fernandes, um desenvolvedor 👨 
- 💻 front-end  e faço trabalhos freelancer e participo de projetos feito por mim ou por grupo de pessoas 🚀</div>  
+ 💻 back-end  e faço trabalhos freelancer e participo de projetos feito por mim ou por grupo de pessoas 🚀</div>  
 
 - 🐍 Atualmente estou estudando python!
 
