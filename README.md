@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">Eu sou Kauê Fernandes, um desenvolvedor 👨 
+### <div align="center">Eu sou Kauê Fernandes 👨 
  💻 back-end  e faço trabalhos freelancer e participo de projetos feito por mim ou por grupo de pessoas 🚀</div>  
 
 - 🐍 Atualmente estou estudando python!
